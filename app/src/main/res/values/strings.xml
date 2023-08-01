@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simply navigation homework</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="menu_second_screen">Menu second screen</string>
+    <string name="click_here_to_exit_the_program">Click here to exit the program</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure you want to exit?</string>
+    <string name="go_back">Go back</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
